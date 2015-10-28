@@ -1,0 +1,11 @@
+Evan: I can give you dumps of Windows 7, 8.1, etc. 
+
+      I (and anyone) can give you Linux dumps, whatever you want.
+
+      I can give you clean install Mac dumps. 
+
+      we can go to:
+	github.com/volatilityfoundation/profiles 
+
+      and get additional profiles (and memory dumps) from there.
+	 
